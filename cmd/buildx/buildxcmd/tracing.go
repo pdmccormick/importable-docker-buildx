@@ -1,4 +1,4 @@
-package main
+package buildxcmd
 
 import (
 	"github.com/moby/buildkit/util/tracing/detect"
